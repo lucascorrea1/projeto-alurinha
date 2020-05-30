@@ -1,7 +1,7 @@
 # **Projeto Alurinha Cursos Online**
 Projeto desenvolvido ao final do curso de Flexbox da Alura Cursos Online, com o intuito de aprimoração e fixação do que foi aprendido.
 
-Bibliotecas e tecnologias utilizadas: 
+Tecnologias utilizadas: 
 
 - HTML5
 - CSS3
